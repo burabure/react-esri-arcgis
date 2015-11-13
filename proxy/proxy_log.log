@@ -1,0 +1,257 @@
+
+ 
+11-11-15 18:30:07 | GET detected
+11-11-15 18:30:07 | Proxy could not resolve requested url - cmd=ping.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+11-11-15 18:30:35 | GET detected
+11-11-15 18:30:35 | Pinged
+ 
+11-11-15 18:30:57 | GET detected
+11-11-15 18:30:57 | This proxy does not support empty parameters.
+ 
+11-11-15 18:31:03 | GET detected
+11-11-15 18:31:03 | Pinged
+ 
+11-11-15 18:31:56 | POST detected
+11-11-15 18:31:56 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-11-15 18:31:58 | Ok to proxy
+11-11-15 18:31:58 | Proxy complete
+ 
+11-11-15 18:32:01 | POST detected
+11-11-15 18:32:01 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-11-15 18:32:02 | Ok to proxy
+11-11-15 18:32:02 | Proxy complete
+ 
+11-11-15 18:32:04 | POST detected
+11-11-15 18:32:04 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-11-15 18:32:04 | Ok to proxy
+11-11-15 18:32:04 | Proxy complete
+ 
+11-12-15 23:01:43 | GET detected
+11-12-15 23:01:43 | Pinged
+ 
+11-12-15 23:01:46 | GET detected
+11-12-15 23:01:46 | Pinged
+ 
+11-12-15 23:02:59 | GET detected
+11-12-15 23:02:59 | Pinged
+ 
+11-12-15 23:03:04 | GET detected
+11-12-15 23:03:04 | Pinged
+ 
+11-12-15 23:03:39 | GET detected
+ 
+11-12-15 23:03:51 | GET detected
+ 
+11-12-15 23:04:01 | GET detected
+ 
+11-12-15 23:04:04 | GET detected
+11-12-15 23:04:04 | This proxy does not support empty parameters.
+ 
+11-12-15 23:04:10 | GET detected
+11-12-15 23:04:10 | Pinged
+ 
+11-12-15 23:04:40 | GET detected
+11-12-15 23:04:40 | This proxy does not support empty parameters.
+ 
+11-12-15 23:04:46 | GET detected
+ 
+11-12-15 23:07:58 | GET detected
+11-12-15 23:07:58 | Pinged
+ 
+11-12-15 23:08:05 | GET detected
+11-12-15 23:08:05 | This proxy does not support empty parameters.
+ 
+11-12-15 23:08:10 | GET detected
+ 
+11-12-15 23:09:34 | GET detected
+11-12-15 23:09:34 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+11-12-15 23:14:04 | POST detected
+11-12-15 23:14:04 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+11-12-15 23:23:55 | POST detected
+11-12-15 23:23:55 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-12-15 23:24:21 | Ok to proxy
+11-12-15 23:24:21 | Proxy complete
+ 
+11-12-15 23:24:35 | POST detected
+11-12-15 23:24:35 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-12-15 23:24:35 | Ok to proxy
+11-12-15 23:24:35 | Proxy complete
+ 
+11-12-15 23:24:54 | POST detected
+11-12-15 23:24:54 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-12-15 23:24:55 | Ok to proxy
+11-12-15 23:24:55 | Proxy complete
+ 
+11-12-15 23:25:01 | POST detected
+11-12-15 23:25:01 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-12-15 23:25:02 | Ok to proxy
+11-12-15 23:25:02 | Proxy complete
+ 
+11-12-15 23:25:31 | POST detected
+11-12-15 23:25:31 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-12-15 23:25:31 | Ok to proxy
+11-12-15 23:25:31 | Proxy complete
+ 
+11-12-15 23:43:50 | POST detected
+11-12-15 23:43:50 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-12-15 23:43:50 | Ok to proxy
+11-12-15 23:43:50 | Proxy complete
+ 
+11-13-15 00:26:40 | POST detected
+11-13-15 00:26:40 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 00:26:41 | Ok to proxy
+11-13-15 00:26:41 | Proxy complete
+ 
+11-13-15 17:12:57 | GET detected
+11-13-15 17:12:57 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:12:57 | Ok to proxy
+11-13-15 17:12:57 | Proxy complete
+ 
+11-13-15 17:13:58 | GET detected
+11-13-15 17:13:58 | This proxy does not support empty parameters.
+ 
+11-13-15 17:16:02 | GET detected
+11-13-15 17:16:02 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:16:03 | Ok to proxy
+11-13-15 17:16:03 | Proxy complete
+ 
+11-13-15 17:18:11 | GET detected
+11-13-15 17:18:11 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+11-13-15 17:18:11 | GET detected
+11-13-15 17:18:11 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:18:11 | Ok to proxy
+11-13-15 17:18:11 | Proxy complete
+11-13-15 17:18:11 | Ok to proxy
+11-13-15 17:18:11 | Proxy complete
+ 
+11-13-15 17:18:11 | GET detected
+11-13-15 17:18:11 | Proxy could not resolve requested url - http://localhost/geoxite/proxy/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+11-13-15 17:18:11 | GET detected
+11-13-15 17:18:11 | Proxy could not resolve requested url - http://localhost/geoxite/proxy/proxy.php.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+11-13-15 17:18:11 | GET detected
+11-13-15 17:18:11 | Proxy could not resolve requested url - http://static.arcgis.com/attribution/World_Street_Map.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+11-13-15 17:18:11 | GET detected
+11-13-15 17:18:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6263/3856.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+11-13-15 17:18:11 | GET detected
+11-13-15 17:18:11 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6263/3857.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+11-13-15 17:18:11 | GET detected
+ 
+11-13-15 17:18:11 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+ 
+11-13-15 17:18:12 | Ok to proxy
+11-13-15 17:18:12 | Proxy complete
+11-13-15 17:18:12 | GET detected
+11-13-15 17:18:12 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6265/3856.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+11-13-15 17:18:12 | GET detected
+11-13-15 17:18:12 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6265/3857.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+11-13-15 17:18:12 | GET detected
+11-13-15 17:18:12 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:18:12 | Ok to proxy
+11-13-15 17:18:12 | Proxy complete
+ 
+11-13-15 17:18:20 | GET detected
+11-13-15 17:18:20 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:18:21 | Ok to proxy
+11-13-15 17:18:21 | Proxy complete
+ 
+11-13-15 17:18:21 | GET detected
+11-13-15 17:18:21 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:18:21 | Ok to proxy
+11-13-15 17:18:21 | Proxy complete
+ 
+11-13-15 17:21:15 | GET detected
+11-13-15 17:21:15 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:21:15 | Ok to proxy
+11-13-15 17:21:15 | Proxy complete
+ 
+11-13-15 17:21:24 | GET detected
+11-13-15 17:21:24 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:21:25 | Ok to proxy
+11-13-15 17:21:25 | Proxy complete
+ 
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6263/3858.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+
+ 11-13-15 17:21:56 | GET detected
+ 
+11-13-15 17:21:56 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+ 
+ 
+11-13-15 17:21:56 | Ok to proxy
+11-13-15 17:21:56 | Proxy complete
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6263/3860.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+ 
+11-13-15 17:21:56 | Ok to proxy
+11-13-15 17:21:56 | Proxy complete
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6263/3859.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6265/3858.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6265/3860.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+ 
+ 
+ 
+11-13-15 17:21:56 | Ok to proxy
+11-13-15 17:21:56 | Proxy complete
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6263/3861.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6265/3861.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+11-13-15 17:21:56 | GET detected
+11-13-15 17:21:56 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:21:57 | Ok to proxy
+11-13-15 17:21:57 | Proxy complete
+11-13-15 17:21:57 | GET detected
+11-13-15 17:21:57 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6265/3859.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+11-13-15 17:22:26 | GET detected
+11-13-15 17:22:26 | Proxy could not resolve requested url - http://server.arcgisonline.com/ArcGIS/rest/services/World_Street_Map/MapServer/tile/14/6265/3860.  Possible solution would be to update 'mustMatch', 'matchAll' or 'url' property in the configuration file.
+ 
+11-13-15 17:22:59 | GET detected
+11-13-15 17:22:59 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:22:59 | Ok to proxy
+11-13-15 17:22:59 | Proxy complete
+ 
+11-13-15 17:23:37 | GET detected
+11-13-15 17:23:37 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:23:37 | Ok to proxy
+11-13-15 17:23:37 | Proxy complete
+ 
+11-13-15 17:24:09 | GET detected
+11-13-15 17:24:09 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:24:09 | Ok to proxy
+11-13-15 17:24:09 | Proxy complete
+ 
+11-13-15 17:27:34 | POST detected
+11-13-15 17:27:34 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 17:27:35 | Ok to proxy
+11-13-15 17:27:35 | Proxy complete
+ 
+11-13-15 20:34:51 | POST detected
+11-13-15 20:34:51 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 20:34:51 | Ok to proxy
+11-13-15 20:34:51 | Proxy complete
+ 
+11-13-15 20:34:55 | POST detected
+11-13-15 20:34:55 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-13-15 20:34:55 | Ok to proxy
+11-13-15 20:34:55 | Proxy complete
