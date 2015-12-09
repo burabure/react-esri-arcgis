@@ -255,3 +255,23 @@
 11-13-15 20:34:55 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
 11-13-15 20:34:55 | Ok to proxy
 11-13-15 20:34:55 | Proxy complete
+ 
+11-23-15 17:18:31 | GET detected
+11-23-15 17:18:31 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-23-15 17:18:31 | Ok to proxy
+11-23-15 17:18:31 | Proxy complete
+ 
+11-23-15 17:20:50 | POST detected
+11-23-15 17:20:50 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-23-15 17:20:51 | Ok to proxy
+11-23-15 17:20:51 | Proxy complete
+ 
+11-23-15 20:22:16 | GET detected
+11-23-15 20:22:16 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-23-15 20:22:16 | Ok to proxy
+11-23-15 20:22:16 | Proxy complete
+ 
+11-23-15 20:22:32 | POST detected
+11-23-15 20:22:32 | Can not determine if OAuth or ArcGIS Server means of authentication.  Check config for errors.
+11-23-15 20:22:32 | Ok to proxy
+11-23-15 20:22:32 | Proxy complete

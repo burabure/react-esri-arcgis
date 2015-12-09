@@ -22,24 +22,24 @@
 
     <script src="http://js.arcgis.com/3.14/"></script>
     <script type="text/javascript">
-    require([
-      "esri/map", "esri/InfoTemplate",
-      "esri/graphic", "esri/layers/FeatureLayer",
-      "esri/tasks/query", "esri/tasks/QueryTask",
-      "esri/tasks/Geoprocessor", "esri/tasks/FeatureSet",
-      "esri/symbols/SimpleMarkerSymbol", "esri/symbols/SimpleFillSymbol",
-      "esri/symbols/SimpleLineSymbol", "esri/config",
-      "esri/Color", "dojo/domReady!"
-    ], function() {
-      esriConfig.defaults.io.proxyUrl = "./proxy/proxy.php";
-      esriConfig.defaults.io.alwaysUseProxy = false;
-      esriConfig.defaults.io.corsDetection = false;
+      require([
+        "esri/map", "esri/InfoTemplate",
+        "esri/graphic", "esri/layers/FeatureLayer",
+        "esri/tasks/query", "esri/tasks/QueryTask",
+        "esri/tasks/Geoprocessor", "esri/tasks/FeatureSet",
+        "esri/symbols/SimpleMarkerSymbol", "esri/symbols/SimpleFillSymbol",
+        "esri/symbols/SimpleLineSymbol", "esri/config",
+        "esri/Color", "dojo/domReady!"
+      ], function() {
+        esriConfig.defaults.io.proxyUrl = "./proxy/proxy.php";
+        esriConfig.defaults.io.alwaysUseProxy = false;
+        esriConfig.defaults.io.corsDetection = false;
 
-      // insert webpack bundle script tag
-      var scriptTag = document.createElement('script');
-      scriptTag.src = "http://localhost:3000/js/bundle.js";
-      document.body.appendChild(scriptTag);
-    });
+        // insert webpack bundle script tag
+        var scriptTag = document.createElement('script');
+        scriptTag.src = "http://localhost:3000/js/bundle.js";
+        document.body.appendChild(scriptTag);
+      });
     </script>
   <body class="claro">
     <div id="root">
